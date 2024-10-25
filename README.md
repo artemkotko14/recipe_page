@@ -26,7 +26,7 @@ The challenge was to build out this recipe page and get it looking as close to t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://artemkotko14.github.io/recipe_page/)
 
 ## My process
 
