@@ -22,7 +22,7 @@ The challenge was to build out this recipe page and get it looking as close to t
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./result.png)
 
 ### Links
 
