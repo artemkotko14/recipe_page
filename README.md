@@ -13,6 +13,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
@@ -68,3 +69,8 @@ In future projects I want to explore media queries to adjust styles based on dif
 ### Useful resources
 
 - [CSS :nth-child() Pseudo-class](https://www.w3schools.com/cssref/sel_nth-child.php) - This helped me with use of :nth-child() Pseudo-class .
+
+## Author
+
+- Github - [Artem Kotko](https://github.com/artemkotko14)
+- Frontend Mentor - [@artemkotko14](https://www.frontendmentor.io/profile/artemkotko14)
